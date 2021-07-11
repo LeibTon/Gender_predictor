@@ -38,7 +38,7 @@ Lakhan is a Male name. | Prediction: 0.9541757
 
 ## Files:
 
-- <a href = "/Saving Names.ipynb">Saving Names.ipynb</a>: Used to extract names from hindunames.net  
+- <a href = "/Saving Names.ipynb" >Saving Names.ipynb</a>: Used to extract names from hindunames.net  
 Libraries: requests, re
 
 - [Gender_Predictor.ipynb](/Gender_Predictor.ipynb): Data Preprocessing, Model, Training, Testing.  
