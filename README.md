@@ -10,7 +10,7 @@ Toatal Number of Girl Names: 1596 | stored in [hindu_girls_name.txt](/hindu_girl
 ## Model:
 
 Bidrectional LSTM have been used to learn features of characters that made up name. Below is a brief description of the model:  
-![Model](/model.png)
+<img src = "/model.png" alt = "Model" width = 350 />
 
 All the data is used to train the model, so there is no validation dataset. Hence can check is the model is overfitting. Accuracy achieved after 100 epochs is 90.47%.  
 
